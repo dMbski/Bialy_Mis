@@ -33,7 +33,8 @@ ZASTOSOWAŃ.
 -----------------------------------------------------------------
 W programie wykorzystano ikony z icons8.com
 W programie wykorzystano bibloteki OpenSSL
-
+Instalator programu Inno Setup http://www.jrsoftware.org/
 
 The program uses icons from icons8.com website.
 The program uses OpenSSL.
+The program installer was made in Inno Setup http://www.jrsoftware.org/
