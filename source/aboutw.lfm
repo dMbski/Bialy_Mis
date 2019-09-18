@@ -1,20 +1,20 @@
 object Fabout: TFabout
   Left = 454
-  Height = 313
-  Top = 369
-  Width = 392
+  Height = 330
+  Top = 324
+  Width = 458
   BorderStyle = bsToolWindow
   Caption = 'Fabout'
-  ClientHeight = 313
-  ClientWidth = 392
+  ClientHeight = 330
+  ClientWidth = 458
   Color = clWhite
   OnClose = FormClose
   OnCreate = FormCreate
   LCLVersion = '2.0.0.4'
   object BBclose: TBitBtn
-    Left = 248
+    Left = 304
     Height = 38
-    Top = 248
+    Top = 280
     Width = 128
     DefaultCaption = True
     Font.CharSet = EASTEUROPE_CHARSET
@@ -32,7 +32,7 @@ object Fabout: TFabout
     Left = 0
     Height = 264
     Top = 0
-    Width = 392
+    Width = 458
     Align = alTop
     Picture.Data = {
       1754506F727461626C654E6574776F726B47726170686963A806000089504E47
@@ -97,10 +97,10 @@ object Fabout: TFabout
     AnchorSideLeft.Control = Owner
     AnchorSideLeft.Side = asrCenter
     AnchorSideTop.Control = Image1
-    Left = 8
+    Left = 11
     Height = 256
     Top = 0
-    Width = 377
+    Width = 436
     Alignment = taCenter
     AutoSize = False
     Caption = 'Label1'
@@ -116,12 +116,21 @@ object Fabout: TFabout
     WordWrap = True
   end
   object BBpotwierdzenia: TBitBtn
-    Left = 16
+    Left = 11
     Height = 38
-    Top = 248
-    Width = 144
+    Top = 280
+    Width = 120
     Caption = 'BBpotwierdzenia'
     OnClick = BBpotwierdzeniaClick
     TabOrder = 1
+  end
+  object BBstrona: TBitBtn
+    Left = 160
+    Height = 38
+    Top = 280
+    Width = 120
+    Caption = 'BBstrona'
+    OnClick = BBstronaClick
+    TabOrder = 2
   end
 end

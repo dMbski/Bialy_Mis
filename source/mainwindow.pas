@@ -25,6 +25,7 @@ const
   cMainCaption = 'Biały Miś';
   cTBcaptionOL = 'Szukaj on-line';
   cTBcaptionL = 'Szukaj' + LineEnding + 'w potwierdzeniach';
+  cAppPage = 'https://dmbsoft.pl/bialymis';
 
 type
 
@@ -676,7 +677,7 @@ begin
   s := s + '<tr>' + simpleHtmlCells(['Reprezentujący',
     findInJson(sJson, 'representatives')]) + '</tr>';
   s := s + '<tr>' + simpleHtmlCells(['Data rejestracji',
-    findInJson(sJson, 'registrationDate')]) + '</tr>';
+    findInJson(sJson, 'registrationLegalDate')]) + '</tr>';
 
 
   s := s + '<tr>' + simpleHtmlCells(['Identyfikator wyszukania',
