@@ -2,7 +2,7 @@
 Program for verification of the contractor on the "White List" of Polish VAT taxpayers.
 This aspect of doing business concerns Polish companies. That is why it will continue in Polish.
 
-Last version download from https://dmbsoft.pl/bialymis/
+The latest version can be downloaded from https://dmbsoft.pl/bialymis/
 
 ### Program do weryfikacji kontrahenta na "Bialej Liście" podatników VAT (www.podatki.gov.pl).
 
