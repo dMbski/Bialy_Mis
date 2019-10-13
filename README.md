@@ -4,7 +4,7 @@ This aspect of doing business concerns Polish companies. That is why it will con
 
 The latest version can be downloaded from https://dmbsoft.pl/bialymis/
 
-### Program do weryfikacji kontrahenta na "Bialej Liście" podatników VAT (www.podatki.gov.pl).
+### Program do weryfikacji kontrahenta na "Białej Liście" podatników VAT (www.podatki.gov.pl).
 
 Wynik pozytywnej weryfikacji, automatycznie zapisywany jest na dysku komputera.
 
