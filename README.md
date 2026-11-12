@@ -1,8 +1,8 @@
+Ten program jest nieaktualny i przestarzały. Dostępna jest nowsza wersja programu pod adresem: https://github.com/dMbski/Bialy-Mis-20
+
 # Biały Miś (White Bear)
 Program for verification of the contractor on the "White List" of Polish VAT taxpayers.
 This aspect of doing business concerns Polish companies. That is why it will continue in Polish.
-
-The latest version can be downloaded from https://dmbsoft.pl/bialymis/
 
 ### Program do weryfikacji kontrahenta na "Białej Liście" podatników VAT (www.podatki.gov.pl).
 
